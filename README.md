@@ -18,4 +18,4 @@ gcc main.c desafios.c -o supertrunfo
 3. Comparação com dois atributos usando operador ternário
 
 ---
-Trabalho desenvolvido por Caio Mateus para a disciplina de programação em C.
+Trabalho desenvolvido por Caio Mateus Dos Santos Dias para a disciplina de programação em C.
